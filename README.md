@@ -24,33 +24,39 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 
 ## Factorization
 - **Learning Graph Representation via Frequent Subgraphs (SDM 2018)**
+- **通过频繁子图学习图的表达**
   - Dang Nguyen, Wei Luo, Tu Dinh Nguyen, Svetha Venkatesh, Dinh Phung
   - [[Paper]](https://epubs.siam.org/doi/10.1137/1.9781611975321.35)
   - [[Python Reference]](https://github.com/nphdang/GE-FSG)
 
 - **Anonymous Walk Embeddings (ICML 2018)**
+- **随机游走embeding**
   - Sergey Ivanov and Evgeny Burnaev
   - [[Paper]](https://arxiv.org/pdf/1805.11921.pdf)
   - [[Python Reference]](https://github.com/nd7141/AWE)
 
 - **Graph2vec (MLGWorkshop 2017)**
+- **图转向量**
   - Annamalai Narayanan, Mahinthan Chandramohan, Lihui Chen, Yang Liu, and Santhoshkumar Saminathan
   - [[Paper]](https://arxiv.org/abs/1707.05005)
   - [[Python High Performance]](https://github.com/benedekrozemberczki/graph2vec)
   - [[Python Reference]](https://github.com/MLDroid/graph2vec_tf)
 
 - **Subgraph2vec (MLGWorkshop 2016)**
+- **子图转向量**
   - Annamalai Narayanan, Mahinthan Chandramohan, Lihui Chen, Yang Liu, and Santhoshkumar Saminathan
   - [[Paper]](https://arxiv.org/abs/1606.08928)
   - [[Python High Performance]](https://github.com/MLDroid/subgraph2vec_gensim)
   - [[Python Reference]](https://github.com/MLDroid/subgraph2vec_tf)
 
 - **Rdf2Vec: RDF Graph Embeddings for Data Mining (ISWC 2016)**
+- **RDF图转向量**
   - Petar Ristoski and Heiko Paulheim
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46523-4_30)
   - [[Python Reference]](https://github.com/airobert/RDF2VecAtWebScale)
 
 - **Deep Graph Kernels (KDD 2015)**
+- **深度图内核**
   - Pinar Yanardag and S.V.N. Vishwanathan
   - [[Paper]](https://dl.acm.org/citation.cfm?id=2783417)
   - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)
@@ -58,6 +64,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 ## Spectral and Statistical Fingerprints
 
 - **A Simple Yet Effective Baseline for Non-Attribute Graph Classification (ICLR RLPM 2019)**
+-**一种简单有效的非特征图分类的baseline**
   - Chen Cai, Yusu Wang
   - [[Paper]](https://arxiv.org/abs/1811.03508)
   - [[Python Reference]](https://github.com/Chen-Cai-OSU/LDP)
@@ -68,26 +75,31 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
 
 - **A Simple Baseline Algorithm for Graph Classification (Relational Representation Learning, NIPS 2018)**
+- **图分类的一种简单baseline算法**
   - Nathan de Lara and Edouard Pineau
   - [[Paper]](https://arxiv.org/pdf/1810.09155.pdf)
   - [[Python Reference]](https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification)
 
 - **Multi-Graph Multi-Label Learning Based on Entropy (Entropy NIPS 2018)**
+- **基于熵的多重图多标签学习**
   - Zixuan Zhu and Yuhai Zhao
   - [[Paper]](https://github.com/TonyZZX/MultiGraph_MultiLabel_Learning/blob/master/entropy-20-00245.pdf)
   - [[Python Reference]](https://github.com/TonyZZX/MultiGraph_MultiLabel_Learning)
 
 - **Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs (NIPS 2017)**
+- **搜寻唯一的稳定的稀疏的并且快速的特征学习基于图**
   - Saurabh Verma and Zhi-Li Zhang
   - [[Paper]](https://papers.nips.cc/paper/6614-hunt-for-the-unique-stable-sparse-and-fast-feature-learning-on-graphs.pdf)
   - [[Python Reference]](https://github.com/vermaMachineLearning/FGSD)
 
 - **Joint Structure Feature Exploration and Regularization for Multi-Task Graph Classification (TKDE 2015)**
+- **多任务图分类中的链接结构特征探索和规整化**
   - Shirui Pan, Jia Wu, Xingquan Zhuy, Chengqi Zhang, and Philip S. Yuz
   - [[Paper]](https://ieeexplore.ieee.org/document/7302040)
   - [[Java Reference]](https://github.com/shiruipan/MTG)
 
 - **NetSimile: A Scalable Approach to Size-Independent Network Similarity (arXiv 2012)**
+- **网络相似性：一种可扩展的方法对于自由尺寸的网络相似性**
   - Michele Berlingerio, Danai Koutra, Tina Eliassi-Rad, and Christos Faloutsos
   - [[Paper]](https://arxiv.org/abs/1209.2684)
   - [[Python]](https://github.com/kristyspatel/Netsimile)
@@ -95,46 +107,55 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 ## Deep Learning
 
 - **Relational Pooling for Graph Representations (ICML 2019)**
+- **图表达的相关性池化**
   - Ryan L. Murphy, Balasubramaniam Srinivasan, Vinayak Rao, Bruno Ribeiro
   - [[Paper]](https://arxiv.org/abs/1903.02541)
   - [[Python Reference]](https://github.com/PurdueMINDS/RelationalPooling)
 
 - **Ego-CNN: Distributed, Egocentric Representations of Graphs for Detecting Critical Structure (ICML 2019)**
+- **Ego-CNN：分布式，图中心表达方法为探查图的重要结构**
   - Ruo-Chun Tzeng, Shan-Hung Wu
   - [[Paper]](http://proceedings.mlr.press/v97/tzeng19a/tzeng19a.pdf)
   - [[Python Reference]](https://github.com/rutzeng/EgoCNN)
 
 - **Self-Attention Graph Pooling (ICML 2019)**
+- **图的自注意力池化**
   - Junhyun Lee, Inyeop Lee, Jaewoo Kang
   - [[Paper]](https://arxiv.org/abs/1904.08082)
   - [[Python Reference]](https://github.com/inyeoplee77/SAGPool)
 
 - **Variational Recurrent Neural Networks for Graph Classification (ICLR 2019)**
+- **基于图分类的变周期神经网络（VRNN）**
   - Edouard Pineau, Nathan de Lara
   - [[Paper]](https://arxiv.org/abs/1902.02721)
   - [[Python Reference]](https://github.com/edouardpineau/Variational-Recurrent-Neural-Networks-for-Graph-Classification)
 
 - **Crystal Graph Neural Networks for Data Mining in Materials Science (Arxiv 2019)**
+- **晶体图神经网络在材料科学中的应用**
   - Takenori Yamamoto
   - [[Paper]](https://storage.googleapis.com/rimcs_cgnn/cgnn_matsci_May_27_2019.pdf)
   - [[Python Reference]](https://github.com/Tony-Y/cgnn)
 
 - **Explainability Techniques for Graph Convolutional Networks (ICML 2019 Workshop)**
+- **图卷积神经网络的可扩展技术们**
   - Federico Baldassarre, Hossein Azizpour
   - [[Paper]](https://128.84.21.199/pdf/1905.13686.pdf)
   - [[Python Reference]](https://github.com/gn-exp/gn-exp)
 
 - **Semi-Supervised Graph Classification: A Hierarchical Graph Perspective (WWW 2019)**
+- **半监督图分类：一种分层图透视**
   - Jia Li, Yu Rong, Hong Cheng, Helen Meng, Wenbing Huang, and Junzhou Huang
   - [[Paper]](https://arxiv.org/pdf/1904.05003.pdf)
   - [[Python Reference]](https://github.com/benedekrozemberczki/SEAL-CI)
 
 - **Capsule Graph Neural Network (ICLR 2019)**
+- **胶囊图神经网络**
   - Zhang Xinyi and Lihui Chen
   - [[Paper]](https://openreview.net/forum?id=Byl8BnRcYm)
   - [[Python Reference]](https://github.com/benedekrozemberczki/CapsGNN)
 
 - **How Powerful are Graph Neural Networks? (ICLR 2019)**
+- **图神经网络有多强**
   - Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka
   - [[Paper]](https://arxiv.org/abs/1810.00826)
   - [[Python Reference]](https://github.com/weihua916/powerful-gnns)
