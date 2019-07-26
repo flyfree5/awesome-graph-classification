@@ -161,41 +161,49 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/weihua916/powerful-gnns)
 
 - **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks (AAAI 2019)**
+- **高阶图神经网络**
   - Christopher Morris, Martin Ritzert, Matthias Fey, William L. Hamilton, Jan Eric Lenssen, Gaurav Rattan, and Martin Grohe
   - [[Paper]](https://arxiv.org/pdf/1810.02244v2.pdf)
   - [[Python Reference]](https://github.com/k-gnn/k-gnn)
 
 - **Capsule Neural Networks for Graph Classification using Explicit Tensorial Graph Representations (Arxiv 2019)**
+- **图分类的胶囊神经网络用在直接张量的图表达上**
   - Marcelo Daniel Gutierrez Mallea, Peter Meltzer, and Peter J Bentley
   - [[Paper]](https://arxiv.org/pdf/1902.08399v1.pdf)
   - [[Python Reference]](https://github.com/BraintreeLtd/PatchyCapsules)
   
 - **Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction (NIPS 2019)**
+- **映射图片到场景图 用在 排列不变结构预测**
   - Roei Herzig, Moshiko Raboh, Gal Chechik, Jonathan Berant, Amir Globerson
   - [[Paper]](https://arxiv.org/abs/1802.05451)
   - [[Python Reference]](https://github.com/shikorab/SceneGraph)
 
 - **Three-Dimensionally Embedded Graph Convolutional Network for Molecule Interpretation (Arxiv 2018)**
+- **图神经网络3维embeding 对分子解释**
   - Hyeoncheol Cho and Insung. S. Choi
   - [[Paper]](https://arxiv.org/abs/1811.09794)
   - [[Python Reference]](https://github.com/blackmints/3DGCN)
 
 - **Learning Graph-Level Representations with Recurrent Neural Networks (Arxiv 2018)**
+- **利用循环神经网络学习图级别的表示**
   - Yu Jin and Joseph F. JaJa
   - [[Paper]](https://arxiv.org/pdf/1805.07683v4.pdf)
   - [[Python Reference]](https://github.com/yuj-umd/graphRNN)
 
 - **Graph Capsule Convolutional Neural Networks (ICML 2018)**
+- **图胶囊神经网络**
   - Saurabh Verma and Zhi-Li Zhang
   - [[Paper]](https://arxiv.org/abs/1805.08090)
   - [[Python Reference]](https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks)
 
 - **Graph Classification Using Structural Attention (KDD 2018)**
+- **结构注意力模型用来图分类**
   - John Boaz Lee, Ryan Rossi, and Xiangnan Kong
   - [[Paper]](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf)
   - [[Python Pytorch Reference]](https://github.com/benedekrozemberczki/GAM)
 
 - **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation (NIPS 2018)**
+- *图卷积策略神经网络在目标导向的分子图生成中的应用*
   - Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, and Jure Leskovec
   - [[Paper]](https://arxiv.org/abs/1806.02473)
   - [[Python Reference]](https://github.com/bowenliu16/rl_graph_generation)
