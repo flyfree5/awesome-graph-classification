@@ -209,11 +209,13 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/bowenliu16/rl_graph_generation)
 
 - **Hierarchical Graph Representation Learning with Differentiable Pooling (NIPS 2018)**
+- *用可微池化学习分层图表示*
   - Zhitao Ying, Jiaxuan You, Christopher Morris, Xiang Ren, Will Hamilton and Jure Leskovec
   - [[Paper]](http://papers.nips.cc/paper/7729-hierarchical-graph-representation-learning-with-differentiable-pooling.pdf)
   - [[Python Reference]](https://github.com/rusty1s/pytorch_geometric)
 
 - **Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing (ICML 2018)**
+- *图*
   - Davide Bacciu, Federico Errica, and Alessio Micheli
   - [[Paper]](https://arxiv.org/pdf/1805.10636.pdf)
   - [[Python Reference]](https://github.com/diningphil/CGMM)
